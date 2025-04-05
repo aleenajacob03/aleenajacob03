@@ -1,4 +1,3 @@
-[![MasterHead](https://wallpapercave.com/wp/wp6222559.jpg)](https://github.com)
 <h1 align="center">Hi 👋, I'm Aleena Jacob</h1>
 <h3 align="center">A passionate developer and learner</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif">
@@ -11,7 +10,7 @@
 
 - 💬 Ask me about **Python, C, Java**
 
-- 📫 How to reach me **aleenapullatt@gmail.com**
+- 📫 How to reach me **aleenajacob0307@gmail.com**
 
 - ⚡ Fun fact **We only keep 1 out of every 10 apps we try**
 
